@@ -15,6 +15,3 @@ def Any_range_list():
     n2 = int(input('Введите конечно значение:'))
     any_range_list = list(range(n1,n2))
     return any_range_list
-
-
-print(Any_range_list())
